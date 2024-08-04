@@ -1,5 +1,7 @@
+Hi👋 I'm Damiru Gamage
+Computer Science Undergraduate
 # 💫 About Me:
-🔭 I’m currently working on my projects<br>🤝 I’m looking for help with problem-solving and expanding my tech skills.<br>🌱 I’m currently learning new technologies<br>⚡ Fun fact call me Bhas
+🔭 I’m currently working on my project using MERN stack<br>🤝 I’m looking for help with problem-solving and expanding my tech skills.<br>🌱 I’m currently learning MERN Stack<br>⚡ Fun fact call me Bhas
 
 
 ## 🌐 Socials:
